@@ -1,7 +1,8 @@
 ### Hi there 👋
-<div class="tenor-gif-embed" data-postid="12571224" data-share-method="host" data-aspect-ratio="1.32759" data-width="100%"><a href="https://tenor.com/view/cute-cat-in-love-gif-12571224">Cute Cat GIF</a>from <a href="https://tenor.com/search/cute-gifs">Cute GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<!--
-
+<div id="header" align="center">
+  <img src="![image](https://github.com/sansanneko/sansanneko/assets/117953264/773c1476-090f-449b-87bf-f2fc4843b58a)
+" width="100"/>
+</div>
 **sansanneko/sansanneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
