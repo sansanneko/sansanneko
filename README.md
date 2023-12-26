@@ -4,18 +4,12 @@
 </div>
 
 ### About Me
+<p>I'm Kagurazaka Mahiro, and my cat is called sansan😊<br>I am a big fan of computer science and Mathematics. <br>A beginner in programming😥</p>
 
-I'm Kagurazaka Mahiro, and my cat is called sansan😊. I am a big fan of computer science and Mathematics. 
-A beginner in programming😥
+
 
 ### Gender identity and pronouns
 <p>🏳️‍⚧️<br>Gender identity: Nonbinary <br> Pronouns: they/them (she/her is ok.)<br> I support LGBTQ+ rights🏳️‍🌈 </p>
-
-
-
-
- 
-
 
 ### Connect with Me
 
