@@ -1,8 +1,6 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <img src="![image](https://github.com/sansanneko/sansanneko/assets/117953264/773c1476-090f-449b-87bf-f2fc4843b58a)
-" width="100"/>
-</div>
+<div style="width:100%;height:0;padding-bottom:104%;position:relative;"><iframe src="https://giphy.com/embed/IEm8kcqLVCctHJ1kWm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/love-heart-kawaii-IEm8kcqLVCctHJ1kWm">via GIPHY</a></p>
+
 **sansanneko/sansanneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
