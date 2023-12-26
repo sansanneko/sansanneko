@@ -9,11 +9,11 @@ I'm Kagurazaka Mahiro, and my cat is called sansan😊. I am a big fan of comput
 A beginner in programming😥
 
 ### Gender identity and pronouns
+<p>🏳️‍⚧️<br>Gender identity: Nonbinary <br> Pronouns: they/them (she/her is ok.)<br> I support LGBTQ+ rights🏳️‍🌈 </p>
 
-🏳️‍⚧️
-Gender identity: Nonbinary
-Pronouns: they/them (she/her is ok.) 
-I support LGBTQ+ rights🏳️‍🌈
+
+
+
  
 
 
