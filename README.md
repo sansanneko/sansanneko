@@ -10,6 +10,7 @@
 
 ### Gender identity and pronouns
 <p>🏳️‍⚧️<br>Gender identity: Nonbinary <br> Pronouns: they/them (she/her is ok.)<br> I support LGBTQ+ rights🏳️‍🌈 </p>
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">🏳️‍⚧️我们活着，就是对恶意，最大的反抗🏳️‍⚧️ <a href="https://t.co/YsQukjXcTV">pic.twitter.com/YsQukjXcTV</a></p>&mdash; 草酸艾司西酞普兰 (@Spring_Earth6) <a href="https://twitter.com/Spring_Earth6/status/1626054988610011138?ref_src=twsrc%5Etfw">February 16, 2023</a></blockquote>
 
 ### Connect with Me
 
