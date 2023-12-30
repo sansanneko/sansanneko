@@ -19,5 +19,5 @@
 [<img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter" width="25"/>](https://twitter.com/sansannekodesu)
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/poKWjBCPZLsAAAAC/cute-cat.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/dEZKOYuY4oQhMOZGEU/giphy.gif" width="200"/>
 </div>
