@@ -16,7 +16,4 @@
 <p><a href="https://github.com/sansanneko"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" width="25"></a><br>
 <a href="https://www.youtube.com/channel/UC4dzDfO-AMUwIGNm1j144vw"><img src="https://img.icons8.com/?size=512&amp;id=19318&amp;format=png" alt="YouTube" width="25"></a><br>
 <a href="https://twitter.com/sansannekodesu"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt="Twitter" width="25"></a></p>
-<div align="center">
-  <img src="https://media0.giphy.com/media/dEZKOYuY4oQhMOZGEU/giphy.gif" width="200">
-</div>
 
